@@ -1,0 +1,11 @@
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\bin\Debug\Server.exe.config
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\bin\Debug\Server.exe
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\bin\Debug\Server.pdb
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.exe
+C:\Users\nttha\Downloads\New folder (16)\chat-app-master\src\Server\Server\obj\Debug\Server.pdb
